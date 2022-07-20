@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Thilakarathna</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **DevOps, React Native**
+- 🌱 I’m currently learning  DevOps , React Native
 
 - 💬 Ask me about **MERN,JAVA,.NET**
 
